@@ -40,14 +40,14 @@ Posteriormente le diria estos secretos al [Captán Crunch](http://es.wikipedia.o
 Los Hacker (70's - 80's)
 ==========================================================================================
 
-El termino hacker un termino el define a un experto informático, amante del conocimiento, este termino fue tomado por los investigadores del [MIT](http://es.wikipedia.org/wiki/MIT) para nombrarse entre ellos en forma de halago para enfatizar sus logros.
+El termino hacker que define a un experto informático, amante del conocimiento, este termino fue tomado por los investigadores del [MIT](http://es.wikipedia.org/wiki/MIT) para nombrarse entre ellos en forma de halago para enfatizar sus logros.
 
 > _"La ética de los hackers propone la pasión, la  libertad para organizar el tiempo y el trabajo, metas que no toman el  dinero como fin en sí mismo, sino que se orientan a la cooperación y el  interés social"_.
 
 >> __"La ética de los  hackers y el espíritu de la era de la información"__ - Pekka Himan(Filósofo finlandés).
 
 
-Los Hacker rebeldes son un grupo de persona las cuales criticaron el desarrollo del Internet y del Software, a partir de fuertes interrogantes como la privacidad y la dependencia tecnológicas implícitas.
+Los Hacker rebeldes(_hacktivistas_) son un grupo de persona las cuales criticaron el desarrollo del Internet y del Software, a partir de fuertes interrogantes como la privacidad y la dependencia tecnológicas implícitas.
 
 Veamos a más detalle la historia de estos **hackers**...
 
