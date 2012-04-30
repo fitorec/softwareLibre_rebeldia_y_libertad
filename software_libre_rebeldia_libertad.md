@@ -40,14 +40,14 @@ Posteriormente le diria estos secretos al [Captán Crunch](http://es.wikipedia.o
 Los Hacker (70's - 80's)
 ==========================================================================================
 
-El termino hacker un termino el define a un experto informático, amante del conocimiento, este termino fue tomado por los investigadores del [MIT](http://es.wikipedia.org/wiki/MIT) para nombrarse entre ellos en forma de halago para enfatizar sus logros.
+El termino hacker que define a un experto informático, amante del conocimiento, este termino fue tomado por los investigadores del [MIT](http://es.wikipedia.org/wiki/MIT) para nombrarse entre ellos en forma de halago para enfatizar sus logros.
 
 > _"La ética de los hackers propone la pasión, la  libertad para organizar el tiempo y el trabajo, metas que no toman el  dinero como fin en sí mismo, sino que se orientan a la cooperación y el  interés social"_.
 
 >> __"La ética de los  hackers y el espíritu de la era de la información"__ - Pekka Himan(Filósofo finlandés).
 
 
-Los Hacker rebeldes son un grupo de persona las cuales criticaron el desarrollo del Internet y del Software, a partir de fuertes interrogantes como la privacidad y la dependencia tecnológicas implícitas.
+Los Hacker rebeldes(_hacktivistas_) son un grupo de persona las cuales criticaron el desarrollo del Internet y del Software, a partir de fuertes interrogantes como la privacidad y la dependencia tecnológicas implícitas.
 
 Veamos a más detalle la historia de estos **hackers**...
 
@@ -296,19 +296,6 @@ Posteriormente observe este mismo comentario(con otras palabras) en su libro. "p
 
 ------------------------------------------------------------------------------------------
 
-Agradecimientos
+Gracias
 ==========================================================================================
 
-Quisiera agradecer a mis ex-compañeros de escuela que estuvieron pendientes de esta presentación(Claudia, Karen “la China”, Gohxn, R00tW33d,  KeopsLex, etc..).
-
-A mis padres que me dieron una educación en un margen de mayor libertad que lo habitual, a su confianza en esta educación y en mi persona, pero sobretodo por  el gran amor que me han trasmitido el cual me ha enseñado que en la acción de retransmitirlo a mis semejantes aumenta y se retroalimenta.
-
-A mi hermano **Eymard** y mis colegas de **SL** que con su entusiasmo y calidez humana me motivan día con día a continuar mi compromiso transado.
-
-A cada uno de los autores anteriormente mencionados por dejar sus ideas a la humanidad, lo cual nos enseña que al final de esta vida lo importante no es lo que te llevas(nada) si no lo que dejas(tus actos e ideas).
-
-A mis amigos __radicales__ que están haciendo de su forma de pensar su estilo de vida pues:
-
->> "si no vives como piensas acabaras pensando como vives" - **la Caja de Hierro** -  <http://www.masquepalabras.org/lacajadehierro/>
-
-Y en general a toda la sociedad que ha marcado lo que hoy soy.
