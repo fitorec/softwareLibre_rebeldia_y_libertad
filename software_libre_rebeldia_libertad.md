@@ -296,19 +296,7 @@ Posteriormente observe este mismo comentario(con otras palabras) en su libro. "p
 
 ------------------------------------------------------------------------------------------
 
-Agradecimientos
+Gracias
 ==========================================================================================
 
-Quisiera agradecer a mis ex-compañeros de escuela que estuvieron pendientes de esta presentación(Claudia, Karen “la China”, Gohxn, R00tW33d,  KeopsLex, etc..).
 
-A mis padres que me dieron una educación en un margen de mayor libertad que lo habitual, a su confianza en esta educación y en mi persona, pero sobretodo por  el gran amor que me han trasmitido el cual me ha enseñado que en la acción de retransmitirlo a mis semejantes aumenta y se retroalimenta.
-
-A mi hermano **Eymard** y mis colegas de **SL** que con su entusiasmo y calidez humana me motivan día con día a continuar mi compromiso transado.
-
-A cada uno de los autores anteriormente mencionados por dejar sus ideas a la humanidad, lo cual nos enseña que al final de esta vida lo importante no es lo que te llevas(nada) si no lo que dejas(tus actos e ideas).
-
-A mis amigos __radicales__ que están haciendo de su forma de pensar su estilo de vida pues:
-
->> "si no vives como piensas acabaras pensando como vives" - **la Caja de Hierro** -  <http://www.masquepalabras.org/lacajadehierro/>
-
-Y en general a toda la sociedad que ha marcado lo que hoy soy.
