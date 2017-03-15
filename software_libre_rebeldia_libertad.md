@@ -14,7 +14,9 @@ Los Hippies (60's)
 
 La historia de la cultura __hacker__ tal vez tiene sus inicios en la época __hippie__, cuando un conjunto de jóvenes luchadores sociales decidió ocupar las tecnologías, para hacer de esto una forma de manifestación en contra de políticas norteamericanas como la guerra de Vietnam entre otras.
 
-![./img/AbbieHoffmanJohnLennon.jpg](./img/AbbieHoffmanJohnLennon.jpg)
+![./img/AbbieHoffmanJohnLennon.jpg](./img/AbbieHoffmanJohnLennonYokoRobin.jpg)
+> __Abbie Hoffman, John Lennon, Yoko Ono y Robin, 1972__
+
 
 El caso más conocido es el del [**Abbie Hoffman**(nov 30, 1936 – abr 12, 1989)](http://en.wikipedia.org/wiki/Abbie_Hoffman) un hippie quien escribió el libro _Steal This Book_ en el cual relata una serie de técnicas de sobrevivencia y formas de manifestación.
 
@@ -110,7 +112,7 @@ Por ejemplo si se quiere buscar a algunos __"terroristas"__ entonces las palabra
 Mapa Mundial Echelon
 ==========================================================================================
 
-![./img/Echelon-folie.jpg](./img/Echelon-folie.jpg)
+![./img/Echelon-folie](./img/Echelon-folie.jpg)
 
 ------------------------------------------------------------------------------------------
 
@@ -211,7 +213,7 @@ El software libre es una concepción colectiva de la propiedad la cual respeta p
 El SL y la Libertad
 ==========================================================================================
 
-![Cabeza ñu logo gnu](./img/gnu-head.jpg)
+![Cabeza ñu logo gnu](./img/GNU-logo.jpg)
 
 Una de las cosas de la cual los usuarios de libres nos sentimos más orgullosos es de [nuestro logotipo](http://www.gnu.org/graphics/agnuhead.html). El cual es un antílope([_Ñu_](http://es.wikipedia.org/wiki/%C3%91u)) el cual habita en el áfrica, entre sus características principales destaca el hecho es el único mamífero el cual puede convivir en grupos(manadas) tan grandes(miles) sin que exista un [**MACHO alfa**](http://es.wikipedia.org/wiki/Macho_alfa)(un líder o jefe) puesto que para que inicien su peregrinaje basta con el primero que avance, estas manadas suelen ser buscadas por otras especies(como cebras y gacelas) para defenderse de los depredadores.
 
